@@ -12,10 +12,10 @@ variables:
   azureSubscription: 'b4fd4ace-2dad-4571-97cf-ba8d09a2bdc7'
 
   # Function app name
-  functionAppName: ''
+  functionAppName: 'aptstr'
 
   # Environment name
-  environmentName: ''
+  environmentName: 'production'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
